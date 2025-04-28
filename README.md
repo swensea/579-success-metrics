@@ -1,8 +1,8 @@
-# 📊 Metrics Lost in Translation
+# Metrics Lost in Translation
 
 An AI-powered tool that **reconciles KPIs**, **translates business metrics across teams**, and **flags conflicting success metrics** — preventing misalignment between Marketing, Sales, and Product teams.
 
-## 🚀 Features
+## Features
 
 ### Business KPI Glossary Translator
 Standardizes business metric definitions across departments for a shared understanding.
@@ -22,7 +22,7 @@ Analyze uploaded reports to extract key KPIs, flag inconsistencies, and suggest 
 ### KPI Visualizer
 Visual dashboards showing how KPIs align (or conflict) across different teams and business units.
 
-## 💡 Problem Statement
+## Problem Statement
 
 Misaligned KPIs waste months of effort across organizations:
 - Marketing defines "conversion" differently than Sales.
@@ -32,7 +32,7 @@ Misaligned KPIs waste months of effort across organizations:
 
 This tool solves the problem by **detecting and correcting metric misalignments early**.
 
-## 💡 Screenshots of App
+## Screenshots of App
 
 
 ![Screenshot 2025-04-27 at 9 56 53 AM](https://github.com/user-attachments/assets/61398a12-11a7-4c0b-bd6c-9f5819113ef4)
